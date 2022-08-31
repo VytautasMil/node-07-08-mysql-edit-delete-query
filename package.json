@@ -1,0 +1,19 @@
+{
+  "name": "07-08-mysql-edit-delete-query",
+  "version": "1.0.0",
+  "description": "1. inicijuoti git, .gitignore - done\r 2. inicijuoti npm - done\r 3. isirasyti express, cors, morgan, colors, dotenv, mysql2,(devDep) eslint, nodemon,\r 4. eslint --init - sukonfiguruoti eslint\r 5. package.json - susukiriam scripts\r 6. susikurti back end serveri su express\r 7. 404 - response in json\r 8. isijungi morgan, cors, json() (app.use)\r 9. sukurti .env ir ideti PORT\r 10. config.js pasiimti prisijungimo duomenis is .env\r 11. Pasileisti Xammp/mamp ir pasitkrinti ar veikia db\r 12. Susikurti reikalingus routes",
+  "main": ".eslintrc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VytautasMil/node-07-08-mysql-edit-delete-query.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VytautasMil/node-07-08-mysql-edit-delete-query/issues"
+  },
+  "homepage": "https://github.com/VytautasMil/node-07-08-mysql-edit-delete-query#readme"
+}
